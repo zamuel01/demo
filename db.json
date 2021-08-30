@@ -1,9 +1,9 @@
 {
   "qr": {
        "data" : [
-                 { "id": 1, "name": "Banco Economico2", "image": "google.com" },
-                 { "id": 2, "name": "Banco Sol", "image": "google.com" },
-                 { "id": 3, "name": "Banco Fie", "image": "google.com" }
+                 { "id": 1, "name": "Banco Economico2", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png" },
+                 { "id": 2, "name": "Banco Sol", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png" },
+                 { "id": 3, "name": "Banco Fie", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png" }
        ]
   }
 }
