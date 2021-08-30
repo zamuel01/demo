@@ -5,5 +5,13 @@
                  { "id": 2, "name": "Banco Sol", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png" },
                  { "id": 3, "name": "Banco Fie", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png" }
        ]
-  }
+  },
+  "bak": {
+       "data" : [
+                 { "id": 1, "name": "Banco Economico 1", "AccountNumber":"12321-123213-12", "OwnerName": "Juan Perez", "CI":"8556567", "CurrencyId": "1" },
+                 { "id": 2, "name": "Banco Economico 2", "AccountNumber":"666-123213-12", "OwnerName": "Juan Perez", "CI":"8556564", "CurrencyId": "1" },
+                 { "id": 3, "name": "Banco Economico 3", "AccountNumber":"666-333-555", "OwnerName": "Juan Perez2", "CI":"8556568", "CurrencyId": "1" },
+                 { "id": 4, "name": "Banco Economico 4", "AccountNumber":"999-666-333", "OwnerName": "Juan Perez3", "CI":"8556566", "CurrencyId": "2" }
+       ]
+  }  
 }
